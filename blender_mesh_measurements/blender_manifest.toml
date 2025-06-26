@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "blender_mesh_measurements"
-name = "Simple Mesh Measurement Tools for Blender"
+name = "Simple Mesh Measurement Tools"
 version = "1.0.0"
 tagline = "MeasureIt is cool, but what if you just want to measure something?"
 type = "add-on"
